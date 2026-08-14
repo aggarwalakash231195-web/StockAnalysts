@@ -209,3 +209,4 @@ Edit `config.py` to change:
 - `MAX_ANALYST_COUNT` — underfollowed threshold (default 8)
 - `SHORT_INTEREST_SQUEEZE_THRESHOLD` — % float (default 20%)
 - All technical indicator periods (RSI, MACD, ATR, SMAs)
+# StockAnalysts
