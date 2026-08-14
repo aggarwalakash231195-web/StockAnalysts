@@ -210,3 +210,4 @@ Edit `config.py` to change:
 - `SHORT_INTEREST_SQUEEZE_THRESHOLD` — % float (default 20%)
 - All technical indicator periods (RSI, MACD, ATR, SMAs)
 # StockAnalysts
+# StockAnalysts
